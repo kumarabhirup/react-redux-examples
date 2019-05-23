@@ -1,4 +1,6 @@
-body {
-  background: black;
-  color: white;
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #333;
+    color: white;
+  }
 }

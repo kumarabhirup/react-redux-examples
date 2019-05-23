@@ -11,9 +11,6 @@
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0"
   },
-  "devDependencies": {
-    "babel-loader": "8.0.4"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
